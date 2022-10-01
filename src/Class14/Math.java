@@ -1,7 +1,7 @@
 package Class14;
 
 public class Math {
-    void add (int number1, int number2){
+    void add (int number1, int number2) {
         System.out.println(number1+number2);
     }
     void printFiboSeries(int size){

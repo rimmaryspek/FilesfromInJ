@@ -1,0 +1,30 @@
+Access Modifiers:
+Access modifiers are keywords which control the access or fields or methods or class itselt.
+They are 4 access levels nad 3 access modifiers keywords.
+This are ony applicable to instance or static variables, not to local variables.
+
+1.Private:Is the most restricted one if you used private with any variables or method,
+we can only access it whiten the class
+Only inside the class or method can be used.
+When we should use private access modifier? In OOPS always use private access modifier.
+We should always try to create variables as private.
+---Up-site of the private - its secure all the time.
+The data that we store inside the private variables is secured.
+---Down- site - is you can only use only in the class.
+2. Default access modifier:
+Default is not a keyword whenever we what to assign any access modifier keyword like public or private,
+Java assigns default access level to those variables and method.
+We can use the default access level within the same class or any other class that is present inside the same package.
+
+3. Public access modifier:
+All the variables that mentioned as public can be shared to all packges and classes.
+public access most unrestricted access modifier.
+Once used with an variables or method within a project.
+
+we can have only one public class in a file and the name of the class and should match the name of file.
+
+JVM --Java Vertical Machine-> the code from sourse code will deliver to user.
+
+
+
+

@@ -1,0 +1,70 @@
+1 How to Exclude packages:
+Double click the shift twice quickly and type excludes and hit enter:
+From the pop up window an click + button and select the packages that yuo want to execute.
+How Java code is compiled / execute on a computer.
+We write the code in file with extension .java
+once we hit the run button a software program called compiler checks this code,
+ for error and convert it to byte code. usualy stored in a folder called bin/out.
+ JVM another software further converts this code to binary code and this binary,
+ code is what is excludes on your computer.
+ ---------------------------------------------
+Why we should packages and class from compiling:
+In intellej if we a syntax error in any of the file in a project we can't run the project another
+file unless and until we fix that error. Sometimes time we want to execute code in some files without
+fixing those issue this is where we should exc.
+-----------------------------------------------
+Methods in Java:
+Method is a block of code. or some java statements (any code with;)grouped together.
+Why we should learn about the methods.
+Methods help us reduce the amount of code that we have to write.
+F.exp if piece of code is being repeated again,
+we can create a method for it and simple call that method whenever we need that logic again.
+Syntax of creating methods:
+ we can create methods only inside a class
+ [Datatype][mathod name][(datatype and variable name ---parameters)][method body].
+ [Datatype] can we void, boolean, String int etc
+ [method name ] they are like variable names .
+ [Datatype variable names] used to pass data while calling method.
+How do we dicide that we should use void or a method with a return keyword1.
+ If we are building a method that will be used by other or in other parts of your code which require
+ some data from your meyhod like condition we should not create methods with void type.
+
+===========================================
+Types of varialbles with respect to ther scape:
+There are 3 types of varialbles with respect to there scope:
+1. Local variables
+2.Instance variables
+3. static variables
+
+---Local varialbles
+A var-ble that created inside a method switch case any bloc of code called local variable;
+WHEN WHEN WE SHOULD use local variables:
+**Local variables occupy the computer memory for the amount of time,we should be used local variables,
+but, there are limited with in scope we can't use local variables out side of the block in which the are declared.
+
+F.ex for(int i=0; i<5; i++){
+System.out.print(i);
+}
+---Instance variables.
+which are declared outside of a block of code but, inside a class are called instance variables.
+Int num=1; instance varibles
+F.ex for(int i=0; i<5; i++){
+System.out.print(i);
+}
+When we should use  instance variable.
+when we are planing to create multiply objects of a class or we want to share something multiply methods,
+we should go with instance variables, they occupy the memory for longer as compare to local variables.
+
+
+---- Static variables.
+if an instance has a keyword static with it it called a static variables.
+static String name="Rimma";
+
+When we should use static variables?
+When we need to share something across the objects. We use static variables.
+but, it occupies the memory longest amount of time.
+
+
+
+
+
