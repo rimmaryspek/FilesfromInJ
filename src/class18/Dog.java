@@ -1,11 +1,7 @@
 package class18;
 
-public class Dog {
-    String name;
-    String breed;
-    String color;
-    int age;
-    double weight;
+public class Dog  extends Animal{
+
     double height;
 
     public Dog(String name, String breed, String color, int age, double weight) {

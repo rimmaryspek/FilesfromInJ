@@ -1,10 +1,6 @@
 package class18;
 
-public class Cat {
-    private String name;
-    private String breed;
-    private int age;
-    private double weight;
+public class Cat extends Animal{
 
 public Cat(String catName, String catBreed){
     name = catName;
