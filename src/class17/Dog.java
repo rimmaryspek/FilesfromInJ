@@ -23,7 +23,7 @@ public class Dog {
     }
 
     public static void main(String[] args) {
-       // Dog dog =new Dog(); this is object better use contraction
+       // class19.Dog dog =new class19.Dog(); this is object better use contraction
         //dog.name="tommy";
        // dog.breed="husky";
       //  dog.color="pink";
@@ -32,7 +32,7 @@ public class Dog {
         dog.printinfo();
 
 
-       // Dog dog2 =new Dog();
+       // class19.Dog dog2 =new class19.Dog();
       //  dog2.name="gumy";
       //  dog2.breed="german";
      //   dog2.color="blue";

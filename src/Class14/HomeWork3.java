@@ -1,7 +1,5 @@
 package Class14;
 
-import com.sun.deploy.net.MessageHeader;
-
 public class HomeWork3 {
 //Create a method that will print whether given String is palindrome or not.
 
