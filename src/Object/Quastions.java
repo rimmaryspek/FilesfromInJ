@@ -17,8 +17,5 @@ public class Quastions {
     StringBuilder sb=new StringBuilder(s);
     sb.reverse();
         System.out.println(sb);
-
-
-
     }
 }

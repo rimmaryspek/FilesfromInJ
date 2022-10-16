@@ -1,0 +1,37 @@
+Overriding:
+Method overriding allow us to have same name or methods in the parent class and child class , but on the execution different print.
+Why we should override a method?
+1.If we inherit from the class everything other than private methods and constructors is inherited ,
+if we don't like any method from parent we can override.
+2. It help us to archive polymorphism.
+Syntax of the overriding:
+1) First there much parent and child relationship
+2) In the child class redefine the method.
+Type casting in objects;
+as we can typecast in primitive also we can also type cast in objects.
+like storing the object of a child in a variable of parent.
+With the hepls of type cast we can start storing the object child classes in a array of the parent.
+
+What is the syntax of type cast.
+It is same is primitive tipe casting
+F.ex if we have animal class and animal class has a child class cat we can do.
+Animal animal = new Cat();
+
+Polymorphism:
+Polymorphism is the ability of the method to take on many form base on the object or the parameters that we pass to the methond.
+There are two types of polymorphism:
+1)Compile time/static/arly binding or run time/dynamic or late binding.
+when we use overloading to achieve polymorphism it is called compile time polymorphism.
+**Run time/dynamic or late binding.
+ When we use mothod overriding to achieve poly-sm it call run time pol-sm.
+
+ Final keyword;
+ Final keyword just like any other keyword like class/package/void....
+ There are 3 main uses of final keyword.
+ 1)
+ 2)If we use with method name no child class can override that method.
+ 2)If we use with a fils ones value has been assing th that fild no one can chage the value afterwrds.
+ 3)
+
+
+

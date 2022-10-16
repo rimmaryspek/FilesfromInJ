@@ -1,17 +1,17 @@
-public class Parrot extends Bird {
+public class Parrot {
     Parrot(String name, String color, int age, double weight) {
  //super(name,color,age,weight);
 
     }
 }
-class Crow extends Bird {
+class Crow {
     Crow(String name, String color, int age, double weight) {
       //  super(name, color, age, weight);
         // super(name,color,age.weight) instead
 
     }
 
-    class Sparrow extends Bird {
+    class Sparrow {
         Sparrow(String name, String color, int age, double weight) {
         //    super(name, color, age, weight);
             // super(name,color,age.weight) instead
