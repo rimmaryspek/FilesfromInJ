@@ -28,7 +28,7 @@ public class WhyCollectionsFrameWork {
         ArrayList<String> colors=new ArrayList<>();// to store to arraylist
         colors.add("green");// this is how we store to arraylist using add keyword
         colors.add("red");
-        System.out.println(colors.contains("green"));// avalible any method for arraylist
+        System.out.println(colors.contains("green"));// available any method for arraylist
         System.out.println(colors);
 
         }

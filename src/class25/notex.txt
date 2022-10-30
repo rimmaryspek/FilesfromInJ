@@ -1,5 +1,5 @@
-Collection Framework:
-Collection framework is collection of multiple classes and interfaces which help us process the data
+Collections Framework:
+    Collection framework is collection of multiple classes and interfaces which help us process the data
     efficiently and easily.
 why we should learn about it.
     1) Its very flexible.
@@ -31,8 +31,4 @@ Auto Unboxing:
     Integer wrappedNum=new Integer(10);
     int num2=wrappedNum;
 
-
-
-
-
-
+Iterators:
