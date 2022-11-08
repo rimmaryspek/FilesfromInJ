@@ -26,12 +26,5 @@ public class MapDemo4Two {
         System.out.println(fruit);
 
 
-
-
-
-
-
-
-
     }
 }
