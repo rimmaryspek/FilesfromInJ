@@ -12,6 +12,9 @@ public class FileDemo1 {
         var properties= new Properties();//that spesial software which helps read the data from that file
         properties.load(fileInputStream);//load all thr data from the file inside(memory)
         System.out.println(properties.getProperty("URL"));
+        System.out.println(properties.getProperty("passWord"));
+        fileInputStream.close();// closes file
+
 
 
     }
