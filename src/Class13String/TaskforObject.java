@@ -18,7 +18,7 @@ public class TaskforObject {
     //          w e l c o m e
 //           0 1 2 3 4 5 6 --> m
 
-//  k[o] -- welcome
+//    k[o] -- welcome
 //    m[6]-- e
 //    m[5] --m
 //    m[4]-- o
