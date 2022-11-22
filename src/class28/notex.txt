@@ -1,0 +1,8 @@
+File Handling
+FileHandling:
+    Reading and writing data to files with the help of java is called file handling.
+Steps to read data from any files on any computer:
+    1)location of file on our computer.
+    2) we need to go to that location.
+    3) we need a software that can read and write data to that file for example we need Microsoft Excel if we
+    want to work with xlsx files.

@@ -19,7 +19,7 @@ public class ItDemo2 {
         Iterator<String> iterator=makeupItems.iterator();// creating an iterator
         while (iterator.hasNext()){ // while loop
             String item= iterator.next(); // storing item to i.next()
-            if (item.endsWith("r")){ // if condition checkig if any item ends with "r"
+            if (item.endsWith("r")){ // if condition checking is any item ends with "r"
                 iterator.remove();// removing items ending with r
             }
         }
